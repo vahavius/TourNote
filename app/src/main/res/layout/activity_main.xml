@@ -14,12 +14,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:padding="4dp"
-        android:text="@string/empty_note"
-        android:textSize="15sp" />
+        style="@style/InformationTextView"
+        android:text="@string/empty_note"/>
 
     <ImageView
         android:id="@+id/imvIage"
