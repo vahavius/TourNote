@@ -19,11 +19,11 @@
 
     <ImageView
         android:id="@+id/imvIage"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
+        android:layout_width="@dimen/empty_icon_width"
+        android:layout_height="@dimen/empty_icon_height"
         android:layout_below="@id/textView"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="@dimen/padding_medium"
         android:scaleType="fitCenter"
         android:src="@drawable/empty_note"
         android:contentDescription="@string/image_title" />
