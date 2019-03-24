@@ -28,4 +28,5 @@
     <string name="note_detail_note_detail_hint">Description</string>
     <string name="note_detail_add_note_hint">Your Note (Can Add Later)</string>
     <string name="note_detail_address_hint">Address</string>
+    <string name="edittext_title">Get string here</string>
 </resources>
